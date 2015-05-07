@@ -1,0 +1,9 @@
+/* line 1, ../scss/custom.scss */
+.logo {
+  height: rem-calc(45);
+}
+
+/* line 4, ../scss/custom.scss */
+.omg-bg {
+  background: url("/images/soda_website_linija.png") repeat-x;
+}
