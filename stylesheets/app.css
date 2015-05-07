@@ -9448,3 +9448,8 @@ th.hide-for-touch {
 .omg-bg {
   background: url("../images/soda_website_linija.png") repeat-x;
 }
+
+/* line 7, ../scss/custom.scss */
+.caseStudies-bg {
+  background: url("../images/soda_website_2_linija.png") repeat-x;
+}
